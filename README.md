@@ -62,24 +62,24 @@ Computer Engineering @ **HUST** (Hanoi University of Science and Technology). I 
 
 ### GitHub Stats
 
-<div align="center">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lexuandaibn123&show_icons=true&theme=tokyonight&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lexuandaibn123&show_icons=true&theme=catppuccin_latte&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lexuandaibn123&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lexuandaibn123&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=lexuandaibn123&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=lexuandaibn123&theme=catppuccin_latte&hide_border=true" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lexuandaibn123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lexuandaibn123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lexuandaibn123&layout=compact&theme=catppuccin_latte&hide_border=true&langs_count=8" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexuandaibn123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   </picture>
-</div>
+</p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lexuandaibn123&layout=compact&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lexuandaibn123&layout=compact&theme=catppuccin_latte&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexuandaibn123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=lexuandaibn123&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=lexuandaibn123&theme=catppuccin_latte&hide_border=true" />
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=lexuandaibn123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </picture>
 </p>
 
