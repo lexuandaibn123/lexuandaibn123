@@ -66,12 +66,12 @@ Computer Engineering @ **HUST** (Hanoi University of Science and Technology). I 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lexuandaibn123&show_icons=true&theme=tokyonight&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lexuandaibn123&show_icons=true&theme=catppuccin_latte&hide_border=true" />
-    <img width="58%" src="https://github-readme-stats.vercel.app/api?username=lexuandaibn123&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=lexuandaibn123&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lexuandaibn123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lexuandaibn123&layout=compact&theme=catppuccin_latte&hide_border=true&langs_count=8" />
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexuandaibn123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexuandaibn123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   </picture>
 </p>
 
