@@ -21,7 +21,7 @@ Computer Engineering @ **HUST** (Hanoi University of Science and Technology). I 
 ### Currently
 
 - Developing **LakeMind** — a GenBI Agent with Lakehouse architecture (Iceberg, Trino, Spark)
-- Crafting open-source projects at **t0lab**
+- Crafting open-source projects at [**t0lab**](https://github.com/t0lab)
 
 ---
 
