@@ -16,14 +16,27 @@
 
 ### About Me
 
-Computer Engineering @ **HUST** (Hanoi University of Science and Technology). Founder of [<img src="https://raw.githubusercontent.com/t0lab/brand-assets/main/logo/primary/png/logo.png" height="20" alt="t0lab" /> **t0lab**](https://github.com/t0lab) — a space where I craft open-source tools and explore ideas from zero.
-
-I enjoy solving problems end-to-end — whether it's designing data pipelines, shipping web products, or writing smart contracts. Currently working as a developer, freelancer, and collaborator.
+Computer Engineering @ **HUST** (Hanoi University of Science and Technology). I enjoy solving problems end-to-end — whether it's designing data pipelines, shipping web products, or writing smart contracts. Currently working as a developer, freelancer, and collaborator.
 
 ### Currently
 
-- Crafting open-source projects at [**t0lab**](https://github.com/t0lab) — AI tools, developer utilities, and more
 - Developing **LakeMind** — a GenBI Agent with Lakehouse architecture (Iceberg, Trino, Spark)
+- Crafting open-source projects at **t0lab**
+
+---
+
+<p align="center">
+  <a href="https://github.com/t0lab">
+    <img src="https://raw.githubusercontent.com/t0lab/brand-assets/main/logo/horizontal/png/logo-horizontal.png" height="60" alt="t0lab" />
+  </a>
+</p>
+
+<p align="center">
+  <em>From Zero to Everything.</em><br/>
+  A space where I craft open-source tools, explore ideas, and turn sparks into shipped products.
+</p>
+
+---
 
 ### What I Do
 
