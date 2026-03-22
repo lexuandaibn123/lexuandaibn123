@@ -69,24 +69,19 @@ Computer Engineering @ **HUST** (Hanoi University of Science and Technology). I 
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lexuandaibn123&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=t0lab&repo=sonar&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=t0lab&repo=sonar&theme=catppuccin_latte&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=t0lab&repo=sonar&theme=tokyonight&hide_border=true" alt="Sonar Repo" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lexuandaibn123&layout=compact&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lexuandaibn123&layout=compact&theme=catppuccin_latte&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexuandaibn123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=lexuandaibn123&theme=tokyonight&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=lexuandaibn123&theme=catppuccin_latte&hide_border=true" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lexuandaibn123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </picture>
 </div>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lexuandaibn123&layout=compact&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lexuandaibn123&layout=compact&theme=catppuccin_latte&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexuandaibn123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </picture>
+</p>
 
 
 ### Contribution Snake
