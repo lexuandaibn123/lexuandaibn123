@@ -1,4 +1,4 @@
-<h1 align="center">Le Xuan Dai</h1>
+<h1 align="center">Hey there, I'm Le Xuan Dai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Full-stack+%26+Blockchain+Developer;AI+%7C+Web+%7C+Blockchain;From+Zero+to+Everything" alt="Typing SVG" /></a>
@@ -16,18 +16,34 @@
 
 ### About Me
 
-Computer Engineering @ **HUST** (Hanoi University of Science and Technology). Founder of [**t0lab**](https://github.com/t0lab) — where everything starts from zero.
+Computer Engineering @ **HUST** (Hanoi University of Science and Technology). Founder of [**t0lab**](https://github.com/t0lab) — a space where I craft open-source tools and explore ideas from zero.
 
-I build across the stack — from AI-powered platforms and cross-chain DApps to real-time communication systems. Currently working as a developer, freelancer, and collaborator on projects that turn ideas into shipped products.
+I enjoy solving problems end-to-end — whether it's designing data pipelines, shipping web products, or writing smart contracts. Currently working as a developer, freelancer, and collaborator.
 
-- Building **AI-powered tools**, **web platforms**, and **blockchain applications**
-- Experienced with **Solana & EVM** ecosystems (Anchor, Wormhole)
+### Currently
+
+- Crafting open-source projects at [**t0lab**](https://github.com/t0lab) — AI tools, developer utilities, and more
+- Developing **LakeMind** — a GenBI Agent with Lakehouse architecture (Iceberg, Trino, Spark)
+
+### What I Do
+
+| Domain | Technologies |
+|--------|-------------|
+| **Languages** | Python, TypeScript, Rust, C/C++ |
+| **Web** | Next.js, React, Tailwind CSS, Node.js, FastAPI, Socket.io, WebRTC |
+| **Blockchain** | Solana (Anchor), EVM, Wormhole |
+| **AI & Data** | LangGraph, RAGFlow, Weaviate, Dagster, Tavily Search |
+| **Big Data** | Apache Spark, Trino, Apache Iceberg, Apache Polaris, Apache Kafka, JupyterHub |
+| **Database** | MySQL, MongoDB, PostgreSQL, MinIO, Redis, Prisma |
+| **Auth & Security** | Keycloak, Open Policy Agent (OPA) |
+| **Monitoring** | Grafana, Prometheus, Loki |
+| **Infra** | Docker, Nginx, Cloudflare Tunnel, Vercel, GitHub Actions |
 
 ### Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,rust,react,nextjs,tailwind,fastapi,nodejs,docker,solana,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,ts,rust,react,nextjs,tailwind,fastapi,nodejs,docker,mongodb,mysql,github" />
   </a>
 </p>
 
@@ -44,4 +60,18 @@ I build across the stack — from AI-powered platforms and cross-chain DApps to 
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=lexuandaibn123&theme=default&hide_border=true" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lexuandaibn123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lexuandaibn123&layout=compact&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lexuandaibn123&layout=compact&theme=default&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexuandaibn123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </picture>
 </div>
+
+
+### Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lexuandaibn123/lexuandaibn123/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lexuandaibn123/lexuandaibn123/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/lexuandaibn123/lexuandaibn123/output/github-snake.svg" />
+</picture>
