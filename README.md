@@ -1,7 +1,7 @@
-<h1 align="center">Hey there, I'm Le Xuan Dai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /></h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> I'm Le Xuan Dai</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Full-stack+%26+Blockchain+Developer;AI+%7C+Web+%7C+Blockchain;From+Zero+to+Everything" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Software+Engineer+%7C+Solutions+Architect;AI+%C2%B7+Web+%C2%B7+Blockchain+%C2%B7+Big+Data;From+Zero+to+Everything" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### About Me
 
-Computer Engineering @ **HUST** (Hanoi University of Science and Technology). I enjoy solving problems end-to-end — whether it's designing data pipelines, shipping web products, or writing smart contracts. Currently working as a developer, freelancer, and collaborator.
+Computer Engineering @ **HUST** (Hanoi University of Science and Technology). I design and build end-to-end systems — from data platforms and AI agents to blockchain DApps and real-time applications.
 
 ### Currently
 
@@ -33,7 +33,7 @@ Computer Engineering @ **HUST** (Hanoi University of Science and Technology). I 
 
 <p align="center">
   <em>From Zero to Everything.</em><br/>
-  A space where I craft open-source tools, explore ideas, and turn sparks into shipped products.
+  Where I build open-source tools, architect solutions, and turn ideas into production systems.
 </p>
 
 ---
