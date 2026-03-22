@@ -16,7 +16,7 @@
 
 ### About Me
 
-Computer Engineering @ **HUST** (Hanoi University of Science and Technology). Founder of [**t0lab**](https://github.com/t0lab) — a space where I craft open-source tools and explore ideas from zero.
+Computer Engineering @ **HUST** (Hanoi University of Science and Technology). Founder of [<img src="https://raw.githubusercontent.com/t0lab/brand-assets/main/logo/primary/png/logo.png" height="20" alt="t0lab" /> **t0lab**](https://github.com/t0lab) — a space where I craft open-source tools and explore ideas from zero.
 
 I enjoy solving problems end-to-end — whether it's designing data pipelines, shipping web products, or writing smart contracts. Currently working as a developer, freelancer, and collaborator.
 
@@ -52,17 +52,17 @@ I enjoy solving problems end-to-end — whether it's designing data pipelines, s
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lexuandaibn123&show_icons=true&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lexuandaibn123&show_icons=true&theme=default&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lexuandaibn123&show_icons=true&theme=catppuccin_latte&hide_border=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lexuandaibn123&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=lexuandaibn123&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=lexuandaibn123&theme=default&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=lexuandaibn123&theme=catppuccin_latte&hide_border=true" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lexuandaibn123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lexuandaibn123&layout=compact&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lexuandaibn123&layout=compact&theme=default&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lexuandaibn123&layout=compact&theme=catppuccin_latte&hide_border=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexuandaibn123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </picture>
 </div>
