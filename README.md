@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> I'm Le Xuan Dai</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Software+Engineer+%7C+Solutions+Architect;AI+%C2%B7+Web+%C2%B7+Blockchain+%C2%B7+Big+Data;From+Zero+to+Everything" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Solutions+Architect;AI+%C2%B7+Web+%C2%B7+Blockchain+%C2%B7+Big+Data;From+Zero+to+Everything" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
